@@ -2,8 +2,8 @@ package com.chicken;
 
 /**
  * 动物类 类图中有{abstract}标识标识抽象类
- * @author chicken(jin.wu@ucarinc.com)
- * @author chicken(jin.wu@ucarinc.com)
+ * @author chicken
+ * @author chicken
  * @version 2018/9/6
  * @since 2018/9/6
  */
